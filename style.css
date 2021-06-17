@@ -1,0 +1,26 @@
+
+
+.grid{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    border:solid;
+    border-style: double;
+    ;
+}
+
+.Item{
+    position:absolute;
+    
+}
+
+.Header{
+    display:flex;
+
+    backgroundColor:"lightblue";
+    height:50;
+    textAlign:"center";
+    fontWeight:'Bold';
+    fontSize:27
+
+}
